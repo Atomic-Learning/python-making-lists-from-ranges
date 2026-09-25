@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Python: Making Lists from Ranges",
+    "slug": "python-making-lists-from-ranges",
+    "description": "Describes how to efficiently make a list from a range in python using the list() function.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "python"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
+        "python-lists-introduction",
+        "python-range-in-for-loops"
     ],
     "related": [
-        "",
-        ""
     ]
 }
