@@ -11,7 +11,7 @@
     "duration": 1,
     "prerequisites": [
         "python-lists-introduction",
-        "python-range-in-for-loops"
+        "python-range-in-for-loops", "programming-calling-functions"
     ],
     "related": [
     ]
