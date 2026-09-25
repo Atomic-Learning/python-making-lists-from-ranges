@@ -5,4 +5,4 @@ x = list(range(2, 10, 2))
 print(x)
 ```
 
-This is an efficient way to create a list if the elements follow a predictable numerical pattern defined by the range.
+This is an efficient, compact and readable way to create a list if the elements follow a predictable numerical pattern defined by the range.
